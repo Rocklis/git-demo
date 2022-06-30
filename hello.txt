@@ -9,6 +9,11 @@ hello Rocklis! hello Rocklis!
 hello Rocklis! hello Rocklis!
 hello Rocklis! hello Rocklis!
 hello Rocklis! hello Rocklis!
+<<<<<<< HEAD
 fdfda master test 
 1232
+=======
+fdfda 
+1232 hot-fix test
+>>>>>>> hot-fix
 
